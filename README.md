@@ -5,9 +5,8 @@ version has also been hand checked for vulnerabilities and it's code has been cl
 
 ## Installation
 1. Upload the contents to your webserver
-2. Remove the DISABLEPOST file from /dox to begin posting doxes
-3. Use web interface to post doxes, or manually upload .txt files to the /dox directory.
-4. In some instances, you may have to ensure that the correct permissions are set for the uploaded files. In this case, you should run `chmod -R 755` on the uploaded files to fix their permissions.
+2. Use web interface to post doxes, or manually upload .txt files to the /dox directory.
+3. In some instances, you may have to ensure that the correct permissions are set for the uploaded files. In this case, you should run `chmod -R 755` on the uploaded files to fix their permissions.
 
 ## Features
 - Fully supported bootsrap theme included for easy customization
